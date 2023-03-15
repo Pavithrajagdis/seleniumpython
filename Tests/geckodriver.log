@@ -1,0 +1,1892 @@
+1677443376921	geckodriver	INFO	Listening on 127.0.0.1:59752
+1677443379952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59753" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileuHUUTa"
+1677443380712	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1677443380805	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1677443380830	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1677443380830	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1677443380830	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1677443383689	Marionette	INFO	Listening on port 59761
+DevTools listening on true
+1677443384071	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1677443398325	Marionette	INFO	Stopped listening on port 59761
+1677524825724	geckodriver	INFO	Listening on 127.0.0.1:61226
+1677525003319	geckodriver	INFO	Listening on 127.0.0.1:61250
+1677525207798	geckodriver	INFO	Listening on 127.0.0.1:61317
+1677525210904	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61318" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofile158YSG"
+1677525213705	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1677525213898	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1677525213898	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1677525213898	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1677525213898	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1677525220581	Marionette	INFO	Listening on port 61323
+DevTools listening on true
+1677525222302	Marionette	WARN	TLS certificate errors will be ignored for this session
+1677525226750	Marionette	INFO	Stopped listening on port 61323
+1677525691013	geckodriver	INFO	Listening on 127.0.0.1:61408
+1677525694030	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61409" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofilewWOryz"
+1677525694572	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1677525694678	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1677525694678	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1677525694678	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1677525694679	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1677525696931	Marionette	INFO	Listening on port 61414
+DevTools listening on true
+1677525697140	Marionette	WARN	TLS certificate errors will be ignored for this session
+1677525701122	Marionette	INFO	Stopped listening on port 61414
+1677525869023	geckodriver	INFO	Listening on 127.0.0.1:61453
+1677525872046	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61454" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileEbR7A9"
+1677525872517	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1677525872607	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1677525872607	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1677525872607	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1677525872607	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1677525874898	Marionette	INFO	Listening on port 61459
+DevTools listening on true
+1677525875160	Marionette	WARN	TLS certificate errors will be ignored for this session
+1677525879072	Marionette	INFO	Stopped listening on port 61459
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 680: TypeError: this.tablesData[table] is undefined
+1677525921466	geckodriver	INFO	Listening on 127.0.0.1:61495
+1677525924479	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61496" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileMrQqa9"
+1677525924940	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1677525925028	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1677525925028	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1677525925028	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1677525925028	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1677525927211	Marionette	INFO	Listening on port 61501
+DevTools listening on true
+1677525927591	Marionette	WARN	TLS certificate errors will be ignored for this session
+1677525933004	Marionette	INFO	Stopped listening on port 61501
+1677525974449	geckodriver	INFO	Listening on 127.0.0.1:61535
+1677525977474	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61536" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileh7PzQ5"
+1677525977957	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1677525978048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1677525978048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1677525978048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1677525978049	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1677525980369	Marionette	INFO	Listening on port 61541
+DevTools listening on true
+1677525980590	Marionette	WARN	TLS certificate errors will be ignored for this session
+1677525984440	Marionette	INFO	Stopped listening on port 61541
+1677526091364	geckodriver	INFO	Listening on 127.0.0.1:61579
+1677526094397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61580" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileUF4aIq"
+1677526094873	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1677526094973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1677526094973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1677526094974	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1677526094974	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1677526097415	Marionette	INFO	Listening on port 61585
+DevTools listening on true
+1677526097511	Marionette	WARN	TLS certificate errors will be ignored for this session
+1677526103462	Marionette	INFO	Stopped listening on port 61585
+1677529376041	geckodriver	INFO	Listening on 127.0.0.1:61853
+1677529379064	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61854" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileamPIO9"
+1677529379615	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1677529379712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1677529379712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1677529379712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1677529379712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1677529382304	Marionette	INFO	Listening on port 61859
+DevTools listening on true
+1677529382687	Marionette	WARN	TLS certificate errors will be ignored for this session
+1677529387411	Marionette	INFO	Stopped listening on port 61859
+1677529489050	geckodriver	INFO	Listening on 127.0.0.1:61895
+1677529492089	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61896" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofilefKbS37"
+1677529492642	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1677529492737	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1677529492737	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1677529492737	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1677529492737	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1677529495192	Marionette	INFO	Listening on port 61901
+DevTools listening on true
+1677529495207	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1677529510919	Marionette	INFO	Stopped listening on port 61901
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 173: Error: Data is not ready.
+1677529575338	geckodriver	INFO	Listening on 127.0.0.1:61938
+1677529596281	geckodriver	INFO	Listening on 127.0.0.1:61949
+1677529599312	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61950" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofilevs1ztk"
+1677529599818	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1677529599918	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1677529599918	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1677529599918	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1677529599918	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1677529602432	Marionette	INFO	Listening on port 61956
+DevTools listening on true
+1677529602927	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1677529616083	Marionette	INFO	Stopped listening on port 61956
+1677529635548	geckodriver	INFO	Listening on 127.0.0.1:61999
+1677529638571	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62000" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofile9zEJaP"
+1677529639091	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1677529639184	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1677529639184	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1677529639184	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1677529639184	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1677529641547	Marionette	INFO	Listening on port 62005
+DevTools listening on true
+1677529641684	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1677529656212	Marionette	INFO	Stopped listening on port 62005
+1677531005137	geckodriver	INFO	Listening on 127.0.0.1:62327
+1677531008165	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62328" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofilepkbVYa"
+1677531008720	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1677531008813	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1677531008813	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1677531008813	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1677531008814	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1677531011426	Marionette	INFO	Listening on port 62334
+DevTools listening on true
+1677531011781	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1677531025860	Marionette	INFO	Stopped listening on port 62334
+1677532007117	geckodriver	INFO	Listening on 127.0.0.1:62487
+1677532010141	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62488" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileNGIMcL"
+1677532010719	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1677532010811	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1677532010811	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1677532010811	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1677532010812	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1677532014091	Marionette	INFO	Listening on port 62493
+DevTools listening on true
+1677532014260	Marionette	WARN	TLS certificate errors will be ignored for this session
+1677532024139	Marionette	INFO	Stopped listening on port 62493
+1677532071286	geckodriver	INFO	Listening on 127.0.0.1:62528
+1677532074309	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62529" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofile6bQa1u"
+1677532074884	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1677532074974	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1677532074974	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1677532074974	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1677532074974	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1677532077527	Marionette	INFO	Listening on port 62534
+DevTools listening on true
+1677532077922	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1677532090753	Marionette	INFO	Stopped listening on port 62534
+1677533028677	geckodriver	INFO	Listening on 127.0.0.1:62950
+1677533031703	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62951" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileZqz4Hv"
+1677533032241	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1677533032333	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1677533032333	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1677533032333	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1677533032334	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1677533034932	Marionette	INFO	Listening on port 62958
+DevTools listening on true
+1677533036306	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1677533046981	Marionette	INFO	Stopped listening on port 62958
+1677533421939	geckodriver	INFO	Listening on 127.0.0.1:63228
+1677533424975	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63229" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofile6Q0GSZ"
+1677533425612	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1677533425714	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1677533425714	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1677533425714	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1677533425715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1677533428284	Marionette	INFO	Listening on port 63235
+DevTools listening on true
+1677533428591	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1677533442427	Marionette	INFO	Stopped listening on port 63235
+1677533642425	geckodriver	INFO	Listening on 127.0.0.1:63379
+1677533645445	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63380" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileCDjgsb"
+1677533645936	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1677533646031	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1677533646031	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1677533646031	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1677533646031	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1677533648473	Marionette	INFO	Listening on port 63386
+DevTools listening on true
+1677533648571	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1677533661794	Marionette	INFO	Stopped listening on port 63386
+1677533764367	geckodriver	INFO	Listening on 127.0.0.1:63490
+1677533767392	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63491" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofilei32daT"
+1677533767885	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1677533767976	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1677533767976	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1677533767976	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1677533767977	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1677533770324	Marionette	INFO	Listening on port 63498
+DevTools listening on true
+1677533770513	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1677533784293	Marionette	INFO	Stopped listening on port 63498
+1677533830185	geckodriver	INFO	Listening on 127.0.0.1:63563
+1677533833213	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63564" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofilet5gdyl"
+1677533833770	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1677533833869	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1677533833870	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1677533833870	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1677533833870	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1677533836336	Marionette	INFO	Listening on port 63570
+DevTools listening on true
+1677533836836	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1677533844606	Marionette	INFO	Stopped listening on port 63570
+1677609419004	geckodriver	INFO	Listening on 127.0.0.1:64304
+1677609422011	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64305" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofile2Pp828"
+1677609423786	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1677609423893	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1677609423893	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1677609423893	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1677609423893	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1677609426617	Marionette	INFO	Listening on port 64310
+DevTools listening on true
+1677609426731	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1677609434372	Marionette	INFO	Stopped listening on port 64310
+1677609578659	geckodriver	INFO	Listening on 127.0.0.1:64348
+1677609581686	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64349" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileEEAJZb"
+1677609582184	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1677609582276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1677609582276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1677609582276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1677609582276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1677609584831	Marionette	INFO	Listening on port 64355
+DevTools listening on true
+1677609585300	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1677609597849	Marionette	INFO	Stopped listening on port 64355
+1677610824647	geckodriver	INFO	Listening on 127.0.0.1:64421
+1677610827671	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64422" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileKD2Xjr"
+1677610828191	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1677610828295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1677610828295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1677610828295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1677610828295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1677610830902	Marionette	INFO	Listening on port 64427
+DevTools listening on true
+1677610831295	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1677610844400	Marionette	INFO	Stopped listening on port 64427
+1677678315114	geckodriver	INFO	Listening on 127.0.0.1:56462
+1677678318246	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56463" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileJfkHpt"
+1677678321573	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1677678321743	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1677678321743	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1677678321743	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1677678321743	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1677678345912	Marionette	INFO	Listening on port 56471
+DevTools listening on true
+1677678346182	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1677678359200	Marionette	INFO	Stopped listening on port 56471
+1677678993624	geckodriver	INFO	Listening on 127.0.0.1:56856
+1677678996720	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56857" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofile2fNODo"
+1677678997437	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1677678997528	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1677678997528	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1677678997528	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1677678997528	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1677679000485	Marionette	INFO	Listening on port 56865
+DevTools listening on true
+1677679000931	Marionette	WARN	TLS certificate errors will be ignored for this session
+1677679006938	Marionette	INFO	Stopped listening on port 56865
+1677679054711	geckodriver	INFO	Listening on 127.0.0.1:56923
+1677679057782	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56924" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofilecNNwkl"
+1677679058366	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1677679058463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1677679058463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1677679058463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1677679058463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1677679061457	Marionette	INFO	Listening on port 56931
+DevTools listening on true
+1677679061963	Marionette	WARN	TLS certificate errors will be ignored for this session
+1677679066856	Marionette	INFO	Stopped listening on port 56931
+1677679188664	geckodriver	INFO	Listening on 127.0.0.1:57045
+1677679191733	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57046" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofilexwCDf6"
+1677679192276	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1677679192372	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1677679192373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1677679192373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1677679192373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1677679195314	Marionette	INFO	Listening on port 57052
+DevTools listening on true
+1677679195416	Marionette	WARN	TLS certificate errors will be ignored for this session
+1677679199918	Marionette	INFO	Stopped listening on port 57052
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 680: TypeError: this.tablesData[table] is undefined
+1677679525864	geckodriver	INFO	Listening on 127.0.0.1:57356
+1677679528946	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57357" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileLkdJkG"
+1677679529486	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1677679529586	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1677679529586	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1677679529587	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1677679529587	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1677679532345	Marionette	INFO	Listening on port 57363
+DevTools listening on true
+1677679532635	Marionette	WARN	TLS certificate errors will be ignored for this session
+1677679541353	Marionette	INFO	Stopped listening on port 57363
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 680: TypeError: this.tablesData[table] is undefined
+1677679570702	geckodriver	INFO	Listening on 127.0.0.1:57420
+1677679573757	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57421" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileaROMSP"
+1677679574365	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1677679574457	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1677679574457	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1677679574457	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1677679574457	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1677679577132	Marionette	INFO	Listening on port 57428
+DevTools listening on true
+1677679577439	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1677679597967	Marionette	INFO	Stopped listening on port 57428
+1677679602522	geckodriver	INFO	Listening on 127.0.0.1:57479
+1677679605582	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57480" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileolKpCy"
+1677679606228	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1677679606337	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1677679606337	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1677679606337	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1677679606337	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1677679609622	Marionette	INFO	Listening on port 57487
+DevTools listening on true
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://services-settings/RemoteSettingsClient.jsm, line 149: Error: Unknown callback
+JavaScript error: resource://gre/modules/UpdateTimerManager.jsm, line 352: TypeError: setting getter-only property "gLogEnabled"
+JavaScript error: resource://gre/modules/ModulesPing.jsm, line 70: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "setting getter-only property "gLogEnabled"" {file: "resource://gre/modules/UpdateTimerManager.jsm" line: 352}]'[JavaScript Error: "setting getter-only property "gLogEnabled"" {file: "resource://gre/modules/UpdateTimerManager.jsm" line: 352}]' when calling method: [nsIUpdateTimerManager::registerTimer]
+1677693818316	Marionette	INFO	Stopped listening on port 57487
+1677695929865	geckodriver	INFO	Listening on 127.0.0.1:64925
+1677695932966	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64926" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileTtgrFu"
+1677695933706	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1677695933813	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1677695933813	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1677695933813	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1677695933813	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1677695937610	Marionette	INFO	Listening on port 64933
+DevTools listening on true
+1677695937756	Marionette	WARN	TLS certificate errors will be ignored for this session
+1677695947589	Marionette	INFO	Stopped listening on port 64933
+1677696090005	geckodriver	INFO	Listening on 127.0.0.1:65038
+1677696093079	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65039" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileST9AIY"
+1677696093693	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1677696093793	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1677696093794	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1677696093794	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1677696093794	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1677696096908	Marionette	INFO	Listening on port 65045
+DevTools listening on true
+1677696097250	Marionette	WARN	TLS certificate errors will be ignored for this session
+1677696104170	Marionette	INFO	Stopped listening on port 65045
+1677696305329	geckodriver	INFO	Listening on 127.0.0.1:65177
+1677696308402	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65178" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofilecx7e4A"
+1677696308933	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1677696309028	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1677696309028	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1677696309029	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1677696309029	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1677696311138	Marionette	INFO	Listening on port 65185
+DevTools listening on true
+1677696311564	Marionette	WARN	TLS certificate errors will be ignored for this session
+1677696316848	Marionette	INFO	Stopped listening on port 65185
+1677696351043	geckodriver	INFO	Listening on 127.0.0.1:65236
+1677696354068	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65237" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofilejQYy4l"
+1677696354715	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1677696354819	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1677696354819	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1677696354819	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1677696354819	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1677696357787	Marionette	INFO	Listening on port 65244
+DevTools listening on true
+1677696358277	Marionette	WARN	TLS certificate errors will be ignored for this session
+1677696364082	Marionette	INFO	Stopped listening on port 65244
+1677697443997	geckodriver	INFO	Listening on 127.0.0.1:49445
+1677697447038	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49446" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileUjLyc6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677697447409	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677697447414	Marionette	INFO	Listening on port 49455
+Read port: 49455
+WebDriver BiDi listening on ws://127.0.0.1:49446
+1677697447596	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileUjLyc6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49446/devtools/browser/a7323810-6258-4874-a5d4-860110424766
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1677697457254	Marionette	INFO	Stopped listening on port 49455
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://services-settings/Utils.jsm, line 237: TypeError: NetworkError: Network request failed
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1001: Error: Connection is not open.
+1677697515133	geckodriver	INFO	Listening on 127.0.0.1:49532
+1677697518240	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49533" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofilegEnudZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677697518656	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677697518662	Marionette	INFO	Listening on port 49542
+Read port: 49542
+WebDriver BiDi listening on ws://127.0.0.1:49533
+1677697518874	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofilegEnudZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49533/devtools/browser/9dbaf67f-21b3-4bc1-b121-9d32d7a8da37
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+1677697526895	Marionette	INFO	Stopped listening on port 49542
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 237: TypeError: NetworkError: Network request failed
+1677697555045	geckodriver	INFO	Listening on 127.0.0.1:49600
+1677697558093	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49601" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofilem1floW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677697558461	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677697558469	Marionette	INFO	Listening on port 49610
+Read port: 49610
+WebDriver BiDi listening on ws://127.0.0.1:49601
+1677697558752	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofilem1floW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49601/devtools/browser/15efaeb5-b402-4db7-bc67-15c8baf42751
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1677697566846	Marionette	INFO	Stopped listening on port 49610
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 237: TypeError: NetworkError: Network request failed
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1001: Error: Connection is not open.
+1677697705137	geckodriver	INFO	Listening on 127.0.0.1:49757
+1677697708210	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49758" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofile5GvwqP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677697708600	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677697708609	Marionette	INFO	Listening on port 49766
+Read port: 49766
+WebDriver BiDi listening on ws://127.0.0.1:49758
+1677697708857	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofile5GvwqP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49758/devtools/browser/2912a958-b523-4952-9465-9164a2ffd95c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1677697726683	Marionette	INFO	Stopped listening on port 49766
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 237: TypeError: NetworkError: Network request failed
+1677697729562	geckodriver	INFO	Listening on 127.0.0.1:49823
+1677697732618	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49824" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileiab5DE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677697732988	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677697732995	Marionette	INFO	Listening on port 49832
+Read port: 49832
+WebDriver BiDi listening on ws://127.0.0.1:49824
+1677697733215	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileiab5DE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49824/devtools/browser/35697a6f-1f10-49ec-a517-bd9aa887d3ce
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1677697743381	Marionette	INFO	Stopped listening on port 49832
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://services-settings/Utils.jsm, line 237: TypeError: NetworkError: Network request failed
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1001: Error: Connection is not open.
+1677784383874	geckodriver	INFO	Listening on 127.0.0.1:54168
+1677784386978	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54169" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileSBwHWj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677784389495	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677784389519	Marionette	INFO	Listening on port 54177
+Read port: 54177
+WebDriver BiDi listening on ws://127.0.0.1:54169
+1677784390357	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileSBwHWj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54169/devtools/browser/fbe2c182-8989-451b-9b77-954802b02035
+1677784409533	Marionette	INFO	Stopped listening on port 54177
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 237: TypeError: NetworkError: Network request failed
+1677784744441	geckodriver	INFO	Listening on 127.0.0.1:54240
+1677784747515	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54241" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofilePPxlNd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677784747836	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677784747841	Marionette	INFO	Listening on port 54248
+Read port: 54248
+WebDriver BiDi listening on ws://127.0.0.1:54241
+1677784748037	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofilePPxlNd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54241/devtools/browser/516576e2-b09d-4e64-9ec7-87fa8188841b
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+1677784757735	Marionette	INFO	Stopped listening on port 54248
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 237: TypeError: NetworkError: Network request failed
+1677785100681	geckodriver	INFO	Listening on 127.0.0.1:54299
+1677785103756	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54300" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofiletdhQLc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677785104105	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677785104110	Marionette	INFO	Listening on port 54307
+Read port: 54307
+WebDriver BiDi listening on ws://127.0.0.1:54300
+1677785104320	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofiletdhQLc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54300/devtools/browser/f524b500-39c8-433a-8980-7c96b1b1683c
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+1677785112108	Marionette	INFO	Stopped listening on port 54307
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://services-settings/Utils.jsm, line 237: TypeError: NetworkError: Network request failed
+1677785314952	geckodriver	INFO	Listening on 127.0.0.1:54353
+1677785318015	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54354" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileOuO7Eo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677785318425	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677785318430	Marionette	INFO	Listening on port 54361
+Read port: 54361
+WebDriver BiDi listening on ws://127.0.0.1:54354
+1677785318628	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileOuO7Eo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54354/devtools/browser/aeb079a7-90b5-4e0f-8ef1-fa028e7767e9
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+1677785326187	Marionette	INFO	Stopped listening on port 54361
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 237: TypeError: NetworkError: Network request failed
+1677785405071	geckodriver	INFO	Listening on 127.0.0.1:54408
+1677785408128	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54409" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofiled2WPIe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677785408462	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677785408467	Marionette	INFO	Listening on port 54416
+Read port: 54416
+WebDriver BiDi listening on ws://127.0.0.1:54409
+1677785408655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofiled2WPIe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54409/devtools/browser/8f988ece-da72-4de2-aabf-0c566d64e323
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+1677785415492	Marionette	INFO	Stopped listening on port 54416
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://services-settings/Utils.jsm, line 237: TypeError: NetworkError: Network request failed
+1677785594532	geckodriver	INFO	Listening on 127.0.0.1:54465
+1677785597598	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54466" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileGTrkZB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677785597924	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677785597929	Marionette	INFO	Listening on port 54473
+Read port: 54473
+WebDriver BiDi listening on ws://127.0.0.1:54466
+1677785598131	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileGTrkZB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54466/devtools/browser/f954bacc-3934-42f8-99d2-0b52dcdff3d4
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+1677785605528	Marionette	INFO	Stopped listening on port 54473
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 46: RemoteSettingsWorkerError: Remote Settings has shut down.
+1677785676345	geckodriver	INFO	Listening on 127.0.0.1:54582
+1677785679428	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54583" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileQUHqFM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677785679772	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677785679777	Marionette	INFO	Listening on port 54590
+Read port: 54590
+WebDriver BiDi listening on ws://127.0.0.1:54583
+1677785680055	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileQUHqFM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54583/devtools/browser/41345b39-10f3-4b34-b2d3-c30d9af33b01
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1677785689253	Marionette	INFO	Stopped listening on port 54590
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+[Parent 15176, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 143: Error: Shutdown, aborting read-only worker requests.
+console.error: (new AbortError("IndexedDB: main/top-sites list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+console.error: (new AbortError("IndexedDB: main/url-classifier-skip-urls list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+console.error: (new AbortError("IndexedDB: main/doh-config list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1001: Error: Connection is not open.
+1677785707685	geckodriver	INFO	Listening on 127.0.0.1:54640
+1677785710729	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54641" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofile7oBuHr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677785711124	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677785711129	Marionette	INFO	Listening on port 54648
+Read port: 54648
+WebDriver BiDi listening on ws://127.0.0.1:54641
+1677785711326	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofile7oBuHr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54641/devtools/browser/65e8e1ba-2b76-49e6-9854-0bfd771a20c9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1677785719757	Marionette	INFO	Stopped listening on port 54648
+Dynamically enable window occlusion 1
+[Parent 1276, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://services-settings/Utils.jsm, line 237: TypeError: NetworkError: Network request failed
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1001: Error: Connection is not open.
+1677786462699	geckodriver	INFO	Listening on 127.0.0.1:54731
+1677786465767	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54732" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileocxGUU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677786466086	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677786466092	Marionette	INFO	Listening on port 54739
+Read port: 54739
+WebDriver BiDi listening on ws://127.0.0.1:54732
+1677786466372	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileocxGUU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54732/devtools/browser/d5e997cd-428e-4d8a-a1d3-ff0eedd6d3db
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1677786484570	Marionette	INFO	Stopped listening on port 54739
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 237: TypeError: NetworkError: Network request failed
+1677786741305	geckodriver	INFO	Listening on 127.0.0.1:55004
+1677786744364	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55005" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileNiDA6v"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677786744689	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677786744695	Marionette	INFO	Listening on port 55012
+Read port: 55012
+WebDriver BiDi listening on ws://127.0.0.1:55005
+1677786744900	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileNiDA6v\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55005/devtools/browser/3087c126-998f-41ad-8551-da86d50179c8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1677786762096	Marionette	INFO	Stopped listening on port 55012
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 237: TypeError: NetworkError: Network request failed
+1677786979835	geckodriver	INFO	Listening on 127.0.0.1:55062
+1677786982918	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55063" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofile64jmsl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677786983244	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677786983249	Marionette	INFO	Listening on port 55070
+Read port: 55070
+WebDriver BiDi listening on ws://127.0.0.1:55063
+1677786983445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofile64jmsl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55063/devtools/browser/0406b8b6-e199-416b-aaf4-80f8f219557b
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1677787002000	Marionette	INFO	Stopped listening on port 55070
+Dynamically enable window occlusion 1
+1677787048544	geckodriver	INFO	Listening on 127.0.0.1:55116
+1677787051608	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55117" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileHXVHqY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677787051961	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677787051967	Marionette	INFO	Listening on port 55124
+Read port: 55124
+WebDriver BiDi listening on ws://127.0.0.1:55117
+1677787052196	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileHXVHqY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55117/devtools/browser/30159b02-a3ed-49c7-b474-a81ae49e2a63
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1677787067918	Marionette	INFO	Stopped listening on port 55124
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1677787139049	geckodriver	INFO	Listening on 127.0.0.1:55286
+1677787142120	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55287" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofiles26a6R"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677787142502	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677787142508	Marionette	INFO	Listening on port 55305
+Read port: 55305
+WebDriver BiDi listening on ws://127.0.0.1:55287
+1677787142737	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofiles26a6R\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55287/devtools/browser/74123f06-de7e-4e64-ac86-dabf7c1b04ae
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1677787158835	Marionette	INFO	Stopped listening on port 55305
+Dynamically enable window occlusion 1
+1677787290254	geckodriver	INFO	Listening on 127.0.0.1:55488
+1677787293344	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55489" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileSQh4KR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677787293775	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677787293782	Marionette	INFO	Listening on port 55496
+Read port: 55496
+WebDriver BiDi listening on ws://127.0.0.1:55489
+1677787294021	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileSQh4KR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55489/devtools/browser/a214bd14-988f-4fbc-b40a-51db86613d76
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1677787304690	Marionette	INFO	Stopped listening on port 55496
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 237: TypeError: NetworkError: Network request failed
+1677787344386	geckodriver	INFO	Listening on 127.0.0.1:55553
+1677787347457	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55554" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileggDqHw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677787348153	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677787348161	Marionette	INFO	Listening on port 55565
+Read port: 55565
+WebDriver BiDi listening on ws://127.0.0.1:55554
+1677787348400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileggDqHw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55554/devtools/browser/01d49f8d-4d1a-40f8-8be7-5ea76335d579
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1677787368786	Marionette	INFO	Stopped listening on port 55565
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 237: TypeError: NetworkError: Network request failed
+1677787625928	geckodriver	INFO	Listening on 127.0.0.1:55631
+1677787629009	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55632" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileJQzMJg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677787629372	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677787629377	Marionette	INFO	Listening on port 55639
+Read port: 55639
+WebDriver BiDi listening on ws://127.0.0.1:55632
+1677787629581	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileJQzMJg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55632/devtools/browser/cdc14f2e-10df-438a-b0aa-12a02d5763af
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1677787646868	Marionette	INFO	Stopped listening on port 55639
+Dynamically enable window occlusion 1
+1677787648711	geckodriver	INFO	Listening on 127.0.0.1:55685
+1677787651745	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55686" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileE5kdOR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677787652214	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677787652221	Marionette	INFO	Listening on port 55693
+Read port: 55693
+WebDriver BiDi listening on ws://127.0.0.1:55686
+1677787652562	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+1677787763836	geckodriver	INFO	Listening on 127.0.0.1:55711
+1677787766943	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55712" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileAFLBX6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677787767295	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677787767301	Marionette	INFO	Listening on port 55719
+Read port: 55719
+WebDriver BiDi listening on ws://127.0.0.1:55712
+1677787767489	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileAFLBX6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55712/devtools/browser/838e2da1-e228-4d12-b61f-94ab9c0b2027
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1677787787921	Marionette	INFO	Stopped listening on port 55719
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://services-settings/Utils.jsm, line 237: TypeError: NetworkError: Network request failed
+1677787789934	geckodriver	INFO	Listening on 127.0.0.1:55766
+1677787792994	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55767" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileXK1WX8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677787793422	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677787793429	Marionette	INFO	Listening on port 55774
+Read port: 55774
+WebDriver BiDi listening on ws://127.0.0.1:55767
+1677787793741	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677788007397	geckodriver	INFO	Listening on 127.0.0.1:55804
+1677788010442	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55805" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileatVUhb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677788010803	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677788010807	Marionette	INFO	Listening on port 55812
+Read port: 55812
+WebDriver BiDi listening on ws://127.0.0.1:55805
+1677788011212	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileatVUhb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55805/devtools/browser/99cbcbe1-44f5-45c2-8d2f-85a34102a444
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1677788021624	Marionette	INFO	Stopped listening on port 55812
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://gre/modules/JSONFile.sys.mjs, line 184: Error: Data is not ready.
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1001: Error: Connection is not open.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: (new RemoteSettingsWorkerError("Error: Can't import when we've started shutting down.", "resource://services-settings/RemoteSettingsWorker.jsm", 46))
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: (new RemoteSettingsWorkerError("Error: Can't import when we've started shutting down.", "resource://services-settings/RemoteSettingsWorker.jsm", 46))
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: (new RemoteSettingsWorkerError("Error: Can't import when we've started shutting down.", "resource://services-settings/RemoteSettingsWorker.jsm", 46))
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: (new RemoteSettingsWorkerError("Error: Can't import when we've started shutting down.", "resource://services-settings/RemoteSettingsWorker.jsm", 46))
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: (new RemoteSettingsWorkerError("Error: Can't import when we've started shutting down.", "resource://services-settings/RemoteSettingsWorker.jsm", 46))
+console.error: (new RemoteSettingsWorkerError("Error: Can't import when we've started shutting down.", "resource://services-settings/RemoteSettingsWorker.jsm", 46))
+console.error: (new Error("IndexedDB: main/doh-config getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: (new RemoteSettingsWorkerError("Error: Can't import when we've started shutting down.", "resource://services-settings/RemoteSettingsWorker.jsm", 46))
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.sys.mjs", 372))
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 904: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1677788083392	geckodriver	INFO	Listening on 127.0.0.1:55853
+1677788086446	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55854" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileXdXLus"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677788086852	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677788086858	Marionette	INFO	Listening on port 55861
+Read port: 55861
+WebDriver BiDi listening on ws://127.0.0.1:55854
+1677788087138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileXdXLus\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55854/devtools/browser/77173c65-2733-417d-9b77-ff9542c03345
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1677788095706	Marionette	INFO	Stopped listening on port 55861
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://services-settings/Utils.jsm, line 237: TypeError: NetworkError: Network request failed
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1001: Error: Connection is not open.
+1677788225047	geckodriver	INFO	Listening on 127.0.0.1:55918
+1677788228118	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55919" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileU7bU0C"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677788228438	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677788228443	Marionette	INFO	Listening on port 55926
+Read port: 55926
+WebDriver BiDi listening on ws://127.0.0.1:55919
+1677788228632	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileU7bU0C\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55919/devtools/browser/8d8cdb6c-9c54-4e5e-9e49-c7f1e6813c4c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1677788244009	Marionette	INFO	Stopped listening on port 55926
+Dynamically enable window occlusion 1
+1677788245762	geckodriver	INFO	Listening on 127.0.0.1:55972
+1677788248801	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55973" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileWcOSZq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677788249218	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677788249225	Marionette	INFO	Listening on port 55980
+Read port: 55980
+WebDriver BiDi listening on ws://127.0.0.1:55973
+1677788249541	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677790673118	geckodriver	INFO	Listening on 127.0.0.1:56129
+1677790676176	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56130" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileJzIMMD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677790676709	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677790676713	Marionette	INFO	Listening on port 56137
+Read port: 56137
+WebDriver BiDi listening on ws://127.0.0.1:56130
+1677790676886	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileJzIMMD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56130/devtools/browser/f0afccb2-c9f9-4d19-9646-d03d37fb7c13
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1677790698875	Marionette	INFO	Stopped listening on port 56137
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 237: TypeError: NetworkError: Network request failed
+1677790700617	geckodriver	INFO	Listening on 127.0.0.1:56185
+1677790703671	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56186" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileCvfvmQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677790704014	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677790704019	Marionette	INFO	Listening on port 56193
+Read port: 56193
+WebDriver BiDi listening on ws://127.0.0.1:56186
+1677790704221	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileCvfvmQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56186/devtools/browser/79ddb17a-55b0-4c30-ad47-3e7177d2662c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1677790712786	Marionette	INFO	Stopped listening on port 56193
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 237: TypeError: NetworkError: Network request failed
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1001: Error: Connection is not open.
+1678126925504	geckodriver	INFO	Listening on 127.0.0.1:51962
+1678126928586	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51963" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofiletCO3xe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678126932748	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678126932752	Marionette	INFO	Listening on port 51971
+Read port: 51971
+WebDriver BiDi listening on ws://127.0.0.1:51963
+1678126935803	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofiletCO3xe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51963/devtools/browser/6dc514f6-1c4a-47ff-bf9e-196307b53728
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1678126964619	Marionette	INFO	Stopped listening on port 51971
+Dynamically enable window occlusion 1
+1678126966297	geckodriver	INFO	Listening on 127.0.0.1:52017
+1678126969475	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52018" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofilevZUDbw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678126969823	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678126969829	Marionette	INFO	Listening on port 52025
+Read port: 52025
+WebDriver BiDi listening on ws://127.0.0.1:52018
+1678126970029	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofilevZUDbw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52018/devtools/browser/c911ecc0-4bbb-4eb2-bc44-ff66bb9823f7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1678126977960	Marionette	INFO	Stopped listening on port 52025
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://services-settings/Utils.jsm, line 237: TypeError: NetworkError: Network request failed
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1001: Error: Connection is not open.
+1678129609444	geckodriver	INFO	Listening on 127.0.0.1:52723
+1678129612516	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52724" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileAtjana"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678129613119	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678129613123	Marionette	INFO	Listening on port 52731
+Read port: 52731
+WebDriver BiDi listening on ws://127.0.0.1:52724
+1678129613279	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileAtjana\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52724/devtools/browser/fa1192f0-7c1f-4596-a1fd-db62c602920b
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1678129632910	Marionette	INFO	Stopped listening on port 52731
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://services-settings/Utils.jsm, line 237: TypeError: NetworkError: Network request failed
+1678129635002	geckodriver	INFO	Listening on 127.0.0.1:52774
+1678129638040	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52775" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofilernbu6P"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678129638606	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678129638610	Marionette	INFO	Listening on port 52782
+Read port: 52782
+WebDriver BiDi listening on ws://127.0.0.1:52775
+1678129638843	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofilernbu6P\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52775/devtools/browser/de1f153b-f4d0-4a0d-8ceb-b28e6c5ee6e7
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1678129648022	Marionette	INFO	Stopped listening on port 52782
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 237: TypeError: NetworkError: Network request failed
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 766: Error: Connection closed before committing the transaction.
+1678157315683	geckodriver	INFO	Listening on 127.0.0.1:51254
+1678157319105	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51255" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileODvQn3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678157325175	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678157325235	Marionette	INFO	Listening on port 51262
+Read port: 51262
+WebDriver BiDi listening on ws://127.0.0.1:51255
+Read port: 51262
+1678157329699	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileODvQn3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51255/devtools/browser/ed148861-7871-4dcc-8af0-3b14553064f8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1678157362684	Marionette	INFO	Stopped listening on port 51262
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 237: TypeError: NetworkError: Network request failed
+1678157365523	geckodriver	INFO	Listening on 127.0.0.1:51311
+1678157368624	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51312" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofiledMazS5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678157369752	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678157369761	Marionette	INFO	Listening on port 51321
+Read port: 51321
+WebDriver BiDi listening on ws://127.0.0.1:51312
+1678157370268	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofiledMazS5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51312/devtools/browser/7d10f4c0-bc54-4d41-9191-3869244cfee5
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1678157382459	Marionette	INFO	Stopped listening on port 51321
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 237: TypeError: NetworkError: Network request failed
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1001: Error: Connection is not open.
+1678196182840	geckodriver	INFO	Listening on 127.0.0.1:51980
+1678196185524	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51981" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileyr4Q9B"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678196191726	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678196191737	Marionette	INFO	Listening on port 51988
+Read port: 51988
+WebDriver BiDi listening on ws://127.0.0.1:51981
+Read port: 51988
+1678196196436	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileyr4Q9B\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51981/devtools/browser/ef01317c-2ede-4ee8-a2b5-341c0e8d1f71
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1678196227957	Marionette	INFO	Stopped listening on port 51988
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://services-settings/Utils.jsm, line 237: TypeError: NetworkError: Network request failed
+1678196263297	geckodriver	INFO	Listening on 127.0.0.1:52044
+1678196266249	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52045" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileshppOn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678196267432	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678196267437	Marionette	INFO	Listening on port 52052
+Read port: 52052
+WebDriver BiDi listening on ws://127.0.0.1:52045
+1678196267686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileshppOn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52045/devtools/browser/6d825b2e-beae-4a41-84be-775c31154fcc
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1678196278657	Marionette	INFO	Stopped listening on port 52052
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1001: Error: Connection is not open.
+console.error: (new AbortError("IndexedDB: main/doh-config getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+console.error: (new AbortError("IndexedDB: main/quicksuggest list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+console.error: (new AbortError("IndexedDB: main/quicksuggest list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+console.error: (new AbortError("IndexedDB: main/quicksuggest list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: (new RemoteSettingsWorkerError("Error: Can't import when we've started shutting down.", "resource://services-settings/RemoteSettingsWorker.jsm", 46))
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: (new RemoteSettingsWorkerError("Error: Can't import when we've started shutting down.", "resource://services-settings/RemoteSettingsWorker.jsm", 46))
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: (new RemoteSettingsWorkerError("Error: Can't import when we've started shutting down.", "resource://services-settings/RemoteSettingsWorker.jsm", 46))
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: (new RemoteSettingsWorkerError("Error: Can't import when we've started shutting down.", "resource://services-settings/RemoteSettingsWorker.jsm", 46))
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: (new RemoteSettingsWorkerError("Error: Can't import when we've started shutting down.", "resource://services-settings/RemoteSettingsWorker.jsm", 46))
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: (new RemoteSettingsWorkerError("Error: Can't import when we've started shutting down.", "resource://services-settings/RemoteSettingsWorker.jsm", 46))
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1678197872687	geckodriver	INFO	Listening on 127.0.0.1:52123
+1678197875495	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52124" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofilewY881Y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678197876833	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678197876838	Marionette	INFO	Listening on port 52131
+Read port: 52131
+WebDriver BiDi listening on ws://127.0.0.1:52124
+1678197877033	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofilewY881Y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52124/devtools/browser/11e0583d-66d6-451b-8832-0d357fecd31f
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1678197903984	Marionette	INFO	Stopped listening on port 52131
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://services-settings/Utils.jsm, line 237: TypeError: NetworkError: Network request failed
+1678197945035	geckodriver	INFO	Listening on 127.0.0.1:52180
+1678197947990	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52181" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileaUKd33"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678197948466	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678197948472	Marionette	INFO	Listening on port 52188
+Read port: 52188
+WebDriver BiDi listening on ws://127.0.0.1:52181
+1678197948660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileaUKd33\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52181/devtools/browser/135fef11-9d2b-4836-8a35-72cacda485aa
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1678197961383	Marionette	INFO	Stopped listening on port 52188
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+console.error: "Could not load engine amazondotcom@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine wikipedia@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine bing@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine ddg@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine ebay@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.warn: SearchService: "#init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: uncaught exception: 2147500036
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 46: RemoteSettingsWorkerError: Remote Settings has shut down.
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1001: Error: Connection is not open.
+console.error: (new AbortError("IndexedDB: main/doh-config getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+JavaScript error: resource://gre/modules/JSONFile.sys.mjs, line 184: Error: Data is not ready.
+JavaScript error: resource://gre/modules/JSONFile.sys.mjs, line 184: Error: Data is not ready.
+JavaScript error: resource://gre/modules/JSONFile.sys.mjs, line 184: Error: Data is not ready.
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.sys.mjs", 372))
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 904: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1678198462615	geckodriver	INFO	Listening on 127.0.0.1:52512
+1678198465569	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52513" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileUtLbbd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678198465991	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678198465997	Marionette	INFO	Listening on port 52520
+Read port: 52520
+WebDriver BiDi listening on ws://127.0.0.1:52513
+1678198466534	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileUtLbbd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52513/devtools/browser/0293c92d-1ecd-443f-8052-190e61cf47c5
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1678198486459	Marionette	INFO	Stopped listening on port 52520
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://services-settings/Utils.jsm, line 237: TypeError: NetworkError: Network request failed
+1678198511602	geckodriver	INFO	Listening on 127.0.0.1:52567
+1678198514548	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52568" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileMVslC0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678198515018	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678198515022	Marionette	INFO	Listening on port 52575
+Read port: 52575
+WebDriver BiDi listening on ws://127.0.0.1:52568
+1678198515285	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileMVslC0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52568/devtools/browser/6357b210-0371-4a2e-9a91-0c517eac71a3
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1678198526266	Marionette	INFO	Stopped listening on port 52575
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+console.error: (new Error("IndexedDB: main/search-telemetry-v2 list() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
+console.error: (new Error("IndexedDB: main/search-config list() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 143: Error: Shutdown, aborting read-only worker requests.
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1001: Error: Connection is not open.
+console.error: (new Error("IndexedDB: blocklists/gfx list() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: (new RemoteSettingsWorkerError("Error: Can't import when we've started shutting down.", "resource://services-settings/RemoteSettingsWorker.jsm", 46))
+console.log: "RemoteSettingsWorker error: AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort."
+console.error: (new RemoteSettingsWorkerError("AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/RemoteSettingsWorker.jsm", 46))
+console.log: "RemoteSettingsWorker error: AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort."
+console.error: (new RemoteSettingsWorkerError("AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/RemoteSettingsWorker.jsm", 46))
+console.error: (new AbortError("IndexedDB: main/hijack-blocklists list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+JavaScript error: resource://gre/modules/JSONFile.sys.mjs, line 184: Error: Data is not ready.
+JavaScript error: resource://gre/modules/JSONFile.sys.mjs, line 184: Error: Data is not ready.
+JavaScript error: resource://gre/modules/JSONFile.sys.mjs, line 184: Error: Data is not ready.
+1678212942394	geckodriver	INFO	Listening on 127.0.0.1:57781
+1678212945305	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57782" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileF28ZPP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678212946103	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678212946112	Marionette	INFO	Listening on port 57789
+Read port: 57789
+WebDriver BiDi listening on ws://127.0.0.1:57782
+1678212946343	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileF28ZPP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57782/devtools/browser/2bbb2c47-4ed8-4358-8ff0-7a894436962b
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1678212973795	Marionette	INFO	Stopped listening on port 57789
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+console.error: "Could not load engine amazondotcom@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine wikipedia@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine bing@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine ddg@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.warn: SearchService: "#init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: uncaught exception: 2147500036
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 46: RemoteSettingsWorkerError: Remote Settings has shut down.
+console.error: (new AbortError("IndexedDB: main/doh-config getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+console.error: (new AbortError("IndexedDB: main/top-sites list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/JSONFile.sys.mjs, line 184: Error: Data is not ready.
+JavaScript error: resource://gre/modules/JSONFile.sys.mjs, line 184: Error: Data is not ready.
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.sys.mjs", 372))
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 904: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1678213076802	geckodriver	INFO	Listening on 127.0.0.1:57839
+1678213079732	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57840" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileaZnltf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678213080370	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678213080378	Marionette	INFO	Listening on port 57847
+Read port: 57847
+WebDriver BiDi listening on ws://127.0.0.1:57840
+1678213081450	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileaZnltf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57840/devtools/browser/df5a2d93-3fbb-4b97-bc95-5a087ea55e1a
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1678213095101	Marionette	INFO	Stopped listening on port 57847
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+console.error: (new AbortError("IndexedDB: main/quicksuggest list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+console.error: (new AbortError("IndexedDB: main/quicksuggest list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+console.error: (new AbortError("IndexedDB: main/quicksuggest list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+console.log: "RemoteSettingsWorker error: AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort."
+console.error: (new RemoteSettingsWorkerError("AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/RemoteSettingsWorker.jsm", 46))
+console.log: "RemoteSettingsWorker error: AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort."
+console.error: (new RemoteSettingsWorkerError("AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/RemoteSettingsWorker.jsm", 46))
+console.log: "RemoteSettingsWorker error: AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort."
+console.error: (new RemoteSettingsWorkerError("AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/RemoteSettingsWorker.jsm", 46))
+console.log: "RemoteSettingsWorker error: AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort."
+console.log: "RemoteSettingsWorker error: AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort."
+console.error: (new Error("IndexedDB: main/doh-config getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
+console.error: (new RemoteSettingsWorkerError("AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/RemoteSettingsWorker.jsm", 46))
+console.error: (new RemoteSettingsWorkerError("AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/RemoteSettingsWorker.jsm", 46))
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.sys.mjs", 372))
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 904: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1678215988165	geckodriver	INFO	Listening on 127.0.0.1:58613
+1678215991016	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58614" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileO2KrsS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678215991606	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678215991610	Marionette	INFO	Listening on port 58622
+Read port: 58622
+WebDriver BiDi listening on ws://127.0.0.1:58614
+1678215991776	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileO2KrsS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58614/devtools/browser/45882a59-8f83-495b-9748-d0ae7abe4a33
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1678216030800	Marionette	INFO	Stopped listening on port 58622
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://services-settings/Utils.jsm, line 237: TypeError: NetworkError: Network request failed
+1678216059010	geckodriver	INFO	Listening on 127.0.0.1:58676
+1678216061992	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58677" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofile7lWxyq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678216062916	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678216062927	Marionette	INFO	Listening on port 58684
+Read port: 58684
+WebDriver BiDi listening on ws://127.0.0.1:58677
+1678216063433	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofile7lWxyq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58677/devtools/browser/299fef64-34ff-475d-8778-5137c5416018
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1678216074667	Marionette	INFO	Stopped listening on port 58684
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+console.error: (new AbortError("IndexedDB: main/doh-providers list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 143: Error: Shutdown, aborting read-only worker requests.
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1001: Error: Connection is not open.
+console.error: (new Error("IndexedDB: main/doh-config getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: (new RemoteSettingsWorkerError("Error: Can't import when we've started shutting down.", "resource://services-settings/RemoteSettingsWorker.jsm", 46))
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: (new RemoteSettingsWorkerError("Error: Can't import when we've started shutting down.", "resource://services-settings/RemoteSettingsWorker.jsm", 46))
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: (new RemoteSettingsWorkerError("Error: Can't import when we've started shutting down.", "resource://services-settings/RemoteSettingsWorker.jsm", 46))
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: (new RemoteSettingsWorkerError("Error: Can't import when we've started shutting down.", "resource://services-settings/RemoteSettingsWorker.jsm", 46))
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: (new RemoteSettingsWorkerError("Error: Can't import when we've started shutting down.", "resource://services-settings/RemoteSettingsWorker.jsm", 46))
+1678222564384	geckodriver	INFO	Listening on 127.0.0.1:52687
+1678222567209	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52688" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofilec6Ywbl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678222568317	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678222568466	Marionette	INFO	Listening on port 52695
+Read port: 52695
+WebDriver BiDi listening on ws://127.0.0.1:52688
+1678222569066	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofilec6Ywbl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52688/devtools/browser/276a223d-5687-419a-841c-effde0a86adc
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1678222601126	Marionette	INFO	Stopped listening on port 52695
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://services-settings/Utils.jsm, line 237: TypeError: NetworkError: Network request failed
+1678222641179	geckodriver	INFO	Listening on 127.0.0.1:52847
+1678222644090	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52848" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileUqhUf5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678222645568	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678222645800	Marionette	INFO	Listening on port 52855
+Read port: 52855
+WebDriver BiDi listening on ws://127.0.0.1:52848
+1678222646274	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileUqhUf5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52848/devtools/browser/8c07f15b-56e4-42dd-9526-87859c35cb82
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1678222658141	Marionette	INFO	Stopped listening on port 52855
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 143: Error: Shutdown, aborting read-only worker requests.
+console.error: (new Error("IndexedDB: main/doh-providers list() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
+console.log: "RemoteSettingsWorker error: AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort."
+console.error: (new RemoteSettingsWorkerError("AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/RemoteSettingsWorker.jsm", 46))
+console.error: (new Error("IndexedDB: main/doh-config getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
+console.log: "RemoteSettingsWorker error: AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort."
+console.log: "RemoteSettingsWorker error: AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort."
+console.error: (new RemoteSettingsWorkerError("AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/RemoteSettingsWorker.jsm", 46))
+console.error: (new RemoteSettingsWorkerError("AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/RemoteSettingsWorker.jsm", 46))
+console.log: "RemoteSettingsWorker error: AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort."
+console.log: "RemoteSettingsWorker error: AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort."
+console.error: (new RemoteSettingsWorkerError("AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/RemoteSettingsWorker.jsm", 46))
+console.error: (new RemoteSettingsWorkerError("AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/RemoteSettingsWorker.jsm", 46))
+1678223511126	geckodriver	INFO	Listening on 127.0.0.1:53148
+1678223514087	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53149" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofiledmwcom"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678223515873	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678223515931	Marionette	INFO	Listening on port 53158
+Read port: 53158
+WebDriver BiDi listening on ws://127.0.0.1:53149
+1678223516338	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofiledmwcom\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53149/devtools/browser/8130e73d-8080-4680-85ff-dcbace771a4e
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1678223550454	Marionette	INFO	Stopped listening on port 53158
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://services-settings/Utils.jsm, line 237: TypeError: NetworkError: Network request failed
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.sys.mjs", 372))
+1678223624586	geckodriver	INFO	Listening on 127.0.0.1:53229
+1678223627457	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53230" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileJeCDgv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678223628716	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678223628726	Marionette	INFO	Listening on port 53237
+Read port: 53237
+WebDriver BiDi listening on ws://127.0.0.1:53230
+1678223629334	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileJeCDgv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53230/devtools/browser/dfdcd4b9-d58e-4e9c-8ec6-226a440df041
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1678223799842	Marionette	INFO	Stopped listening on port 53237
+Dynamically enable window occlusion 1
+1678223909323	geckodriver	INFO	Listening on 127.0.0.1:50725
+1678223912168	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50726" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileaocBv5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678223913135	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678223913139	Marionette	INFO	Listening on port 50733
+Read port: 50733
+WebDriver BiDi listening on ws://127.0.0.1:50726
+1678223913395	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileaocBv5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50726/devtools/browser/bf2dced0-c0be-4a3d-bb91-5535a6873afe
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1678223949908	Marionette	INFO	Stopped listening on port 50733
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://services-settings/Utils.jsm, line 237: TypeError: NetworkError: Network request failed
+1678223981255	geckodriver	INFO	Listening on 127.0.0.1:50782
+1678223984142	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50783" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileMv4xqy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678223984707	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678223984712	Marionette	INFO	Listening on port 50790
+Read port: 50790
+WebDriver BiDi listening on ws://127.0.0.1:50783
+1678223985088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileMv4xqy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50783/devtools/browser/e0bc46ed-5d3b-48f1-995b-3f84bddec331
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1678224052388	Marionette	INFO	Stopped listening on port 50790
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+console.error: (new StorageError("Storage error: AbortError: IndexedDB: main/query-stripping list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/RemoteSettingsClient.jsm", 162))
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1001: Error: Connection is not open.
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"CrashMonitor: Writing notifications to file after receiving profile-before-change and awaiting all checkpoints written","state":{"profile-after-change":true,"final-ui-startup":true,"sessionstore-windows-restored":true,"quit-application-granted":true,"quit-application":true,"profile-change-net-teardown":true,"profile-change-teardown":true,"profile-before-change":true},"filename":"resource://gre/modules/CrashMonitor.jsm","lineNumber":174,"stack":["resource://gre/modules/CrashMonitor.jsm:init:174","resource://gre/modules/nsCrashMonitor.jsm:observe:19"]},{"name":"SessionFile: Finish writing Session Restore data","state":{"options":{"isFinalWrite":true,"performShutdownCleanup":true},"attempts":2,"successes":1,"failures":0},"filename":"resource:///modules/sessionstore/SessionFile.sys.mjs","lineNumber":417,"stack":["resource:///modules/sessionstore/SessionFile.sys.mjs:write:417","resource:///modules/sessionstore/SessionFile.sys.mjs:write:45","resource:///modules/sessionstore/SessionSaver.sys.mjs:_writeState:350","resource:///modules/sessionstore/SessionSaver.sys.mjs:_saveState:288","resource:///modules/sessionstore/SessionSaver.sys.mjs:run:156","resource:///modules/sessionstore/SessionSaver.sys.mjs:run:71","resource:///modules/sessionstore/SessionStore.sys.mjs:ssi_uninit:1055","resource:///modules/sessionstore/SessionStore.sys.mjs:ssi_onQuitApplication:2348","resource:///modules/sessionstore/SessionStore.sys.mjs:ssi_observe:1089","chrome://remote/content/marionette/driver.sys.mjs:GeckoDriver.prototype.quit:2834","chrome://remote/content/marionette/server.sys.mjs:despatch:303","chrome://remote/content/marionette/server.sys.mjs:execute:276","chrome://remote/content/marionette/server.sys.mjs:onPacket/<:249","chrome://remote/content/marionette/server.sys.mjs:onPacket:250","chrome://remote/content/marionette/transport.sys.mjs:_onJSONObjectReady/<:496"]}] Barrier: IOUtils: waiting for profileBeforeChange IO to complete
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"IOUtils Blocker (profile-before-change)","state":"(none)","filename":"/builds/worker/checkouts/gecko/dom/system/IOUtils.cpp","lineNumber":2215,"stack":"IOUtils::EventQueue::SetShutdownHooks"},{"name":"Places Connection shutdown","state":{"PlacesShutdownProgress":5},"filename":"/builds/worker/checkouts/gecko/toolkit/components/places/Database.cpp","lineNumber":470,"stack":""}] Barrier: profile-before-change
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.sys.mjs", 372))
+1678394108800	geckodriver	INFO	Listening on 127.0.0.1:60274
+1678394111565	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60275" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileYe4cYE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678394115212	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678394115244	Marionette	INFO	Listening on port 60283
+Read port: 60283
+WebDriver BiDi listening on ws://127.0.0.1:60275
+Read port: 60283
+1678394120472	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofileYe4cYE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60275/devtools/browser/3ba56422-ff94-4db7-bf3b-dde39b1e8de9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1678394151239	Marionette	INFO	Stopped listening on port 60283
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://services-settings/Utils.jsm, line 237: TypeError: NetworkError: Network request failed
+[Parent 101896, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+1678394153345	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@sys.mjs:51
+destroy()@sys.mjs:207
+deleteSession()@sys.mjs:142
+stop()@sys.mjs:229
+observe()@resource://gre/modules/AsyncShutdown.sys.mjs:576
+1678473863186	geckodriver	INFO	Listening on 127.0.0.1:53384
+1678473866162	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53385" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofile3z1UfU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678473867639	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678473867650	Marionette	INFO	Listening on port 53392
+Read port: 53392
+WebDriver BiDi listening on ws://127.0.0.1:53385
+1678473868627	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavij\\AppData\\Local\\Temp\\rust_mozprofile3z1UfU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53385/devtools/browser/f7c156af-718f-4741-9115-b3dab99d7738
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1678473896588	Marionette	INFO	Stopped listening on port 53392
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://services-settings/Utils.jsm, line 237: TypeError: NetworkError: Network request failed
